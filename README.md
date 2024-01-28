@@ -6,6 +6,9 @@ The E-Commerce Dashboard is a powerful tool offering visual insights into online
 
 ## SnapShot of Dashboard:
 
+![E-Commerce Sales Analysis](https://github.com/Ankush-Verma-2807/E-Commerce-Sales-Analysis-Using-Power-BI/assets/155877268/90e10199-e1ee-409b-b018-133b09b6735d)
+
+
 ### Tool Used:
 - Power BI
 
